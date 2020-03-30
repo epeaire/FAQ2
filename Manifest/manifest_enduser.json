@@ -5,7 +5,7 @@
   "id": "aba30cfc-05df-4002-b956-a70996b12a54",
   "packageName": "com.microsoft.teams.faqplus",
   "developer": {
-    "name": "<<companyName>>",
+    "name": "Evan P",
     "websiteUrl": "<<websiteUrl>>",
     "privacyUrl": "<<privacyUrl>>",
     "termsOfUseUrl": "<<termsOfUseUrl>>"
@@ -24,7 +24,7 @@
   "accentColor": "#64A2CC",
   "bots": [
     {
-      "botId": "<<botId>>",
+      "botId": "e71918fb-86f6-446a-9311-9e415a25b6b6",
       "scopes": [
         "personal",
         "team"
@@ -69,6 +69,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<appDomain>>"
+    "https://evpeairefaqplus-config.azurewebsites.net"
   ]
 }
